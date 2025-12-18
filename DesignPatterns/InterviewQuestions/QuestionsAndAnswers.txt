@@ -1,0 +1,1 @@
+1.Sealed Class --> If a class is sealed then It cannot be inherited 
