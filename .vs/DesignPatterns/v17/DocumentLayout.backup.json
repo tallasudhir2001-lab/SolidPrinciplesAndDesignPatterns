@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|C:\\Users\\I45069\\source\\repos\\DesignPatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\i45069\\source\\repos\\designpatterns\\designpatterns\\builder\\facated\\realexamplefacated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\builder\\facated\\realexamplefacated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\i45069\\source\\repos\\designpatterns\\designpatterns\\builder\\facated\\facatedbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\builder\\facated\\facatedbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\i45069\\source\\repos\\designpatterns\\designpatterns\\factory\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factory\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\i45069\\source\\repos\\designpatterns\\designpatterns\\builder\\builderorfulentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\builder\\builderorfulentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\i45069\\source\\repos\\designpatterns\\designpatterns\\builder\\functionalbuilder\\functionalbuilderusinginterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\builder\\functionalbuilder\\functionalbuilderusinginterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\i45069\\source\\repos\\designpatterns\\designpatterns\\builder\\functionalbuilder\\functionalbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\builder\\functionalbuilder\\functionalbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\i45069\\source\\repos\\designpatterns\\designpatterns\\builder\\stepwisebuilder\\stepwisebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\builder\\stepwisebuilder\\stepwisebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|C:\\Users\\I45069\\source\\repos\\DesignPatterns\\designpatterns\\interfaceinversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\interfaceinversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|C:\\Users\\I45069\\source\\repos\\DesignPatterns\\designpatterns\\interfacesegrigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\interfacesegrigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|C:\\Users\\I45069\\source\\repos\\DesignPatterns\\designpatterns\\substitutionprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\substitutionprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|C:\\Users\\I45069\\source\\repos\\DesignPatterns\\designpatterns\\openclosed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\openclosed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|C:\\Users\\I45069\\source\\repos\\DesignPatterns\\designpatterns\\singleresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D122AC55-3F23-4BDA-9870-C9BE159D1591}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\singleresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RealExampleFacated.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\Facated\\RealExampleFacated.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Builder\\Facated\\RealExampleFacated.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\Facated\\RealExampleFacated.cs",
+              "RelativeToolTip": "DesignPatterns\\Builder\\Facated\\RealExampleFacated.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:58:00.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacatedBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\Facated\\FacatedBuilder.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Builder\\Facated\\FacatedBuilder.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\Facated\\FacatedBuilder.cs",
+              "RelativeToolTip": "DesignPatterns\\Builder\\Facated\\FacatedBuilder.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwEsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:29:21.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactoryPattern.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Factory\\FactoryPattern.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Factory\\FactoryPattern.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Factory\\FactoryPattern.cs",
+              "RelativeToolTip": "DesignPatterns\\Factory\\FactoryPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:28:42.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FunctionalBuilderUsingInterfaces.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\FunctionalBuilder\\FunctionalBuilderUsingInterfaces.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Builder\\FunctionalBuilder\\FunctionalBuilderUsingInterfaces.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\FunctionalBuilder\\FunctionalBuilderUsingInterfaces.cs",
+              "RelativeToolTip": "DesignPatterns\\Builder\\FunctionalBuilder\\FunctionalBuilderUsingInterfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T03:54:11.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunctionalBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\FunctionalBuilder\\FunctionalBuilder.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Builder\\FunctionalBuilder\\FunctionalBuilder.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\FunctionalBuilder\\FunctionalBuilder.cs",
+              "RelativeToolTip": "DesignPatterns\\Builder\\FunctionalBuilder\\FunctionalBuilder.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwDMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T03:44:34.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StepWiseBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\StepWiseBuilder\\StepWiseBuilder.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Builder\\StepWiseBuilder\\StepWiseBuilder.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\StepWiseBuilder\\StepWiseBuilder.cs",
+              "RelativeToolTip": "DesignPatterns\\Builder\\StepWiseBuilder\\StepWiseBuilder.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:39:46.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuilderOrFulentBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\BuilderOrFulentBuilder.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Builder\\BuilderOrFulentBuilder.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Builder\\BuilderOrFulentBuilder.cs",
+              "RelativeToolTip": "DesignPatterns\\Builder\\BuilderOrFulentBuilder.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:40:48.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:18:23.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterfaceInversion.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\InterfaceInversion.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\InterfaceInversion.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\InterfaceInversion.cs",
+              "RelativeToolTip": "DesignPatterns\\InterfaceInversion.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:11:59.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterfaceSegrigation.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\InterfaceSegrigation.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\InterfaceSegrigation.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\InterfaceSegrigation.cs",
+              "RelativeToolTip": "DesignPatterns\\InterfaceSegrigation.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:46:50.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubstitutionPrinciple.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\SubstitutionPrinciple.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\SubstitutionPrinciple.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\SubstitutionPrinciple.cs",
+              "RelativeToolTip": "DesignPatterns\\SubstitutionPrinciple.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:50:59.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OpenCLosed.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\OpenCLosed.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\OpenCLosed.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\OpenCLosed.cs",
+              "RelativeToolTip": "DesignPatterns\\OpenCLosed.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAUwHsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:46:00.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SingleResponsibility.cs",
+              "DocumentMoniker": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\SingleResponsibility.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\SingleResponsibility.cs",
+              "ToolTip": "C:\\Users\\I45069\\source\\repos\\DesignPatterns\\DesignPatterns\\SingleResponsibility.cs",
+              "RelativeToolTip": "DesignPatterns\\SingleResponsibility.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:51:18.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
