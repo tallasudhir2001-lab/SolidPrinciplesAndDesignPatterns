@@ -56,10 +56,19 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SingleResponsibility.cs" />
+    <Compile Include="Singleton\Singleton.cs" />
+    <Compile Include="Strategy\StrategyPattern.cs" />
+    <Compile Include="Strategy\StrategyPlusFactory.cs" />
     <Compile Include="SubstitutionPrinciple.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="InterviewQuestions\QuestionsAndAnswers.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Adapter\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

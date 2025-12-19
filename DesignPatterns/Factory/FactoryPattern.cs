@@ -31,9 +31,9 @@ namespace DesignPatterns.Factory
             return new Point(a * Math.Cos(b), b * Math.Sin(a));
         }
     }
-    internal class Program
+    internal class ProgramFP
     {
-        static void Main(string[] args)
+        static void MainFP(string[] args)
         {
             var point = Point.PolarCoordinates(20, 30);
             Console.ReadLine();
