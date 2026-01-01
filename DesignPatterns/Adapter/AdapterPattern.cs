@@ -43,9 +43,9 @@ namespace DesignPatterns.Adapter
             logger.LogErrorDetails(errorMessage);
         }
     }
-    internal class Program
+    internal class ProgramAP
     {
-        static void Main(string[] args)
+        static void MainAP(string[] args)
         {
             ILogger logger = new LoggerAdapter(new NLogger());
             logger.Log("Hi Sudhir");
